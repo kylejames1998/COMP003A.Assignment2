@@ -7,6 +7,7 @@ namespace COMP003A.Assignment2
     {
         static void Main(string[] args)
         {
+            // Console Section
             Console.WriteLine("*********************************************************");
             Console.WriteLine("Console Section");
             Console.WriteLine("*********************************************************");
@@ -15,6 +16,7 @@ namespace COMP003A.Assignment2
             Console.ForegroundColor = ConsoleColor.White;
 
 
+            // String Section
             Console.WriteLine("*********************************************************");
             Console.WriteLine("String Section");
             Console.WriteLine("*********************************************************");
@@ -32,6 +34,7 @@ namespace COMP003A.Assignment2
             Console.WriteLine();
 
 
+            // Math Section
             Console.WriteLine("*********************************************************");
             Console.WriteLine("Math Section");
             Console.WriteLine("**********************************************************");
@@ -48,6 +51,7 @@ namespace COMP003A.Assignment2
             Console.WriteLine();
 
 
+            // Area & Circumference Section
             Console.WriteLine("*********************************************************");
             Console.WriteLine("Circle Area & Circumference Calculator Section");
             Console.WriteLine("*********************************************************");
